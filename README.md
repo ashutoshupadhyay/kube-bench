@@ -11,8 +11,8 @@ Periodic scan of EKS cluster via aquasec/kube-bench
 ### Implementaion steps
 - Clone the repo or download the folder github.com/eks-charts/stable/kube-bench
 - Execute the following command: `helm install kube-bench --debug`
-- Monitored for the successful execution of hourly and daily pods
+- Monitor for the successful execution of hourly and daily pods
 
 ### Testing
-- Implemented the helm chart
-- Monitored for the successful execution
+- Implement the helm chart
+- Monitor for the successful execution
